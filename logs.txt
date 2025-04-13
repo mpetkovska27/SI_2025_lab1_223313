@@ -1,0 +1,15 @@
+*   5829bfb Merge pull request #15 from mpetkovska27/9-mark-all-tasks-in-a-category-as-completed
+|\  
+| * 0ce0580 Implemented mark all tasks in a category as completed
+* |   5afcf36 Merge pull request #14 from mpetkovska27/7-count-tasks-per-category
+|\ \  
+| * | eb7293f Implemented count tasks per category
+| |/  
+* |   61f3ccd Merge pull request #13 from mpetkovska27/5-filter-tasks-by-category
+|\ \  
+| * | 1842ab1 Implemented filter tasks by category
+| |/  
+* / 67a83f1 Implemented mark all tasks in a category as completed
+|/  
+* 6a6f417 Add starter code
+* dd6fdb0 Initial commit
